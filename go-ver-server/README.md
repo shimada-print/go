@@ -10,4 +10,5 @@ go-ver-server
 　|- go run main.go.ps1　クリックで本体テキスト書類を起動できる  
 　|- go build main.go.ps1　クリックで本体テキスト書類を実行ファイルにできる  
 　|- main.exe　クリックでも実行ファイルをコマンドプロンプトで起動できる  
-　|- start_main.exe.ps1　クリックで実行ファイルを起動できる
+　|- start_main.exe.ps1　クリックで実行ファイルを起動できる  
+　|- README.md　仕様説明書（本書類）

@@ -1,6 +1,8 @@
 # Go言語のバージョンを表示するWebサーバーソフト
 ## インストールできたかを確認するならバージョンを表示するWebサーバー
-拡張子.ps1はWindowPowerScriptだが、LinuxやMacでも使用可。
+拡張子.ps1はWindowPowerScriptだが、LinuxやMacでも使用可。  
+本体書類を起動後はファイヤーウォールの問い合わせをOKとし、  
+WebブラウザでURL「localhost:8080」などで閲覧。
 
 ### プロジェクト構成
 go-ver-server  

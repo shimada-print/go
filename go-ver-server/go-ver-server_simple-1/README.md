@@ -7,7 +7,7 @@ go-ver-server_simple-1
 　|- go build main.go.ps1　クリックで本体テキスト書類を実行ファイルにできる  
 　|- main.exe　クリックでも実行ファイルをコマンドプロンプトで起動できる（go bulidで作成後に出来る書類）  
 　|- start_main.exe.ps1　クリックで実行ファイルを起動できる  
-　|- README.md　仕様説明書（本書類）  
+　|- README.md　仕様説明書（本書類）    
  拡張子.ps1はWindowPowerScriptだが、LinuxやMacでも使用可。
 
 ## シンプル版以外でWebブラウザーも同時に起動することもできる

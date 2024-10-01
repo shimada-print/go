@@ -3,6 +3,7 @@
 
 ### プロジェクト構成
 go-ver-server_simple-1  
+　|- main.go　本体テキスト書類（VSコードなどで編集する書類）  
 　|- go run main.go.ps1　クリックで本体テキスト書類を起動できる  
 　|- go build main.go.ps1　クリックで本体テキスト書類を実行ファイルにできる  
 　|- main.exe　クリックでも実行ファイルをコマンドプロンプトで起動できる（go bulidで作成後に出来る書類）  

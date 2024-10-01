@@ -8,7 +8,7 @@ go-ver-server_simple-1
 　|- main.exe　クリックでも実行ファイルをコマンドプロンプトで起動できる（go bulidで作成後に出来る書類）  
 　|- start_main.exe.ps1　クリックで実行ファイルを起動できる  
 　|- README.md　仕様説明書（本書類）  
-  拡張子.ps1はWindowPowerScriptだが、LinuxやMacでも使用可。
+<p>拡張子.ps1はWindowPowerScriptだが、LinuxやMacでも使用可。</p>
 
 ## シンプル版以外でWebブラウザーも同時に起動することもできる
 ## バージョンだけでなく他にgo envで環境変数なども表示可能

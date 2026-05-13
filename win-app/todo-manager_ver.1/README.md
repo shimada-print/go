@@ -1,4 +1,3 @@
---  
 # ToDo Manager ver.1  
 Make Time: JST 2026.5.13.3:00-3:30  
 maker [Shimada print](http://shimadaprint.stars.ne.jp/)  

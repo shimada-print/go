@@ -5,10 +5,12 @@ Go言語だけで作られた軽量な社内連絡・お知らせシステムで
 データベース不要で動作し、Windows・Linux・Macに対応しています。
 
 ## 使用方法
-* header.png、posts.txt、main.exeをダウンロードし、
-  main.exeをダブルクリックで起動
+* header.png、posts.txt、(os名)_main.exeをダウンロードし、
+  win_main.exe（Windows版アプリ本体）をダブルクリックで起動
 * 著作権表記の変更などは、下記の有料記事内のソースコード
   main.goで可能
+* main.goを各OSでビルドすれば使用可能。win_main.exeでも
+  仮想ソフトWineなどを使用で、Linuxなどで使用可能。
 
 ## 特徴
 

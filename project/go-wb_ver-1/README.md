@@ -1,19 +1,17 @@
 # ![Goホワイトボード ver.1](g-wb-v1_index-1.jpg)
 
-Go言語だけで作られた軽量な社内連絡・お知らせシステムです。
-
+Go言語だけで作られた軽量な社内連絡・お知らせシステムです。  
 データベース不要で動作し、Windows・Linux・Macに対応しています。
 
 ## 使用方法
-* header.png、posts.txt、(os名)_main.exeをダウンロードし、
-  win_main.exe（Windows版アプリ本体）をダブルクリックで起動
-* 著作権表記の変更などは、下記の有料記事内のソースコード
-  main.goで可能
-* main.goを各OSでビルドすれば使用可能。win_main.exeでも
-  仮想ソフトWineなどを使用で、Linuxなどで使用可能
+1. header.png、posts.txt、お使いのOSに対応したアプリ本体（例：Windows版は win_main.exe）をダウンロードし、すべて同じフォルダに保存してください。
+2. Windowsの場合は win_main.exe をダブルクリックして起動してください。
+3. 著作権表記などの変更は、有料記事内で公開しているソースコード（main.go）を編集することで行えます。
+4. main.go を各OS向けにビルドすることで、Windows・Linux・macOSなどで利用できます。
+5. Linuxなどの環境でも、Wineなどの互換レイヤーを利用することで win_main.exe を実行できる場合があります。
+
 
 ## 特徴
-
 * Go標準ライブラリのみ使用
 * データベース不要
 * 投稿機能
